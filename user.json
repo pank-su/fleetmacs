@@ -219,6 +219,50 @@
     {
       "key": "ctrl-p",
       "trigger": "-show-parameter-info"
+    },
+    {
+      "key": "alt-n",
+      "trigger": "new-file"
+    },
+    {
+      "key": "ctrl-n",
+      "trigger": "-new-file"
+    },
+    {
+      "key": "ctrl-shift-a",
+      "trigger": "-show-goto-action-panel"
+    },
+    {
+      "key": "alt-x",
+      "trigger": "show-goto-action-panel"
+    },
+    {
+      "key": "ctrl-x ctrl-right",
+      "trigger": "next-tab"
+    },
+    {
+      "key": "ctrl-x ctrl-left",
+      "trigger": "prev-tab"
+    },
+    {
+      "key": "ctrl-x ctrl-f",
+      "trigger": "show-goto-file-panel"
+    },
+    {
+      "key": "ctrl-b",
+      "trigger": "-go-to-declaration"
+    },
+    {
+      "key": "ctrl-w",
+      "trigger": "-expand-selection"
+    },
+    {
+      "key": "ctrl-z",
+      "trigger": "-undo"
+    },
+    {
+      "key": "ctrl-slash",
+      "trigger": "undo"
     }
   ]
 }
