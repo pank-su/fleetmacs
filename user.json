@@ -215,6 +215,10 @@
     {
       "key": "ctrl-x g",
       "trigger": "git/commit"
+    },
+    {
+      "key": "ctrl-p",
+      "trigger": "-show-parameter-info"
     }
   ]
 }
