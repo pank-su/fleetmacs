@@ -17,7 +17,7 @@
       "trigger": "arrow-up"
     },
     {
-      "key": "ctrl-p",
+      "key": "ctrl-n",
       "trigger": "arrow-down"
     },
     {
@@ -29,7 +29,7 @@
       "trigger": "arrow-right"
     },
     {
-      "key": "ctrl-n",
+      "key": "ctrl-p",
       "trigger": "arrow-up"
     },
     {
