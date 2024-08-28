@@ -157,7 +157,7 @@
       "trigger": "save-all"
     },
     {
-      "key": "ctrl-h a",
+      "key": "ctrl-x h",
       "trigger": "select-all"
     },
     {
