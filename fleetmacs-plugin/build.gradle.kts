@@ -6,12 +6,16 @@ plugins {
 version = "0.1.0"
 
 fleetPlugin {
-
-    id = "su.pank.fleetmacs"
+    id  = "su.pank.fleetmacs"
 
     metadata {
-        readableName = "Fleetmacs (Emacs keymap for Jetbrains Fleet)"
-        description = "Many people love Emacs and its keymap, but Emacs lacks proper support for Kotlin. Therefore, we use Jetbrains Fleet as an alternative. For those who prefer the Emacs keymap, I have recreated it for Fleet."
+        readableName = "Fleetmacs"
+        description = "🔥 Just Emacs keymap for fleet."
+
+        icons {
+            default.set(project.layout.projectDirectory.file("iconPlugin.svg"))
+            dark.set(project.layout.projectDirectory.file("iconPlugin.svg"))
+        }
     }
 
     fleetRuntime {
