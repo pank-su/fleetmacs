@@ -2,267 +2,267 @@
   "keymap": [
     {
       "key": "down",
-      "trigger": "-arrow-down"
+      "action": "-arrow-down"
     },
     {
       "key": "down",
-      "trigger": "arrow-down"
+      "action": "arrow-down"
     },
     {
       "key": "up",
-      "trigger": "-arrow-up"
+      "action": "-arrow-up"
     },
     {
       "key": "up",
-      "trigger": "arrow-up"
+      "action": "arrow-up"
     },
     {
       "key": "ctrl-n",
-      "trigger": "arrow-down"
+      "action": "arrow-down"
     },
     {
       "key": "ctrl-b",
-      "trigger": "arrow-left"
+      "action": "arrow-left"
     },
     {
       "key": "ctrl-f",
-      "trigger": "arrow-right"
+      "action": "arrow-right"
     },
     {
       "key": "ctrl-p",
-      "trigger": "arrow-up"
+      "action": "arrow-up"
     },
     {
       "key": "ctrl-g",
-      "trigger": "cancel"
+      "action": "cancel"
     },
     {
       "key": "ctrl-x ctrl-c",
-      "trigger": "close-window"
+      "action": "close-window"
     },
     {
       "key": "alt-semicolon",
-      "trigger": "comment-block"
+      "action": "comment-block"
     },
     {
       "key": "ctrl-slash",
-      "trigger": "-comment-line"
+      "action": "-comment-line"
     },
     {
       "key": "ctrl-shift-slash",
-      "trigger": "-comment-block"
+      "action": "-comment-block"
     },
     {
       "key": "ctrl-shift-numpaddivide",
-      "trigger": "-comment-block"
+      "action": "-comment-block"
     },
     {
       "key": "ctrl-numpaddivide",
-      "trigger": "-comment-line"
+      "action": "-comment-line"
     },
     {
       "key": "ctrl-shift-digit7",
-      "trigger": "-comment-line"
+      "action": "-comment-line"
     },
     {
       "key": "ctrl-shift-colon",
-      "trigger": "-comment-line"
+      "action": "-comment-line"
     },
     {
       "key": "ctrl-c",
-      "trigger": "-copy"
+      "action": "-copy"
     },
     {
       "key": "alt-w",
-      "trigger": "copy"
+      "action": "copy"
     },
     {
       "key": "ctrl-x",
-      "trigger": "-cut"
+      "action": "-cut"
     },
     {
       "key": "ctrl-w",
-      "trigger": "cut"
+      "action": "cut"
     },
     {
       "key": "ctrl-e",
-      "trigger": "end"
+      "action": "end"
     },
     {
       "key": "ctrl-f",
-      "trigger": "-find"
+      "action": "-find"
     },
     {
       "key": "ctrl-s",
-      "trigger": "find"
+      "action": "find"
     },
     {
       "key": "alt-g",
-      "trigger": "go-to-line"
+      "action": "goto/line"
     },
     {
       "key": "ctrl-g",
-      "trigger": "-go-to-line"
+      "action": "-goto/line"
     },
     {
       "key": "ctrl-d",
-      "trigger": "delete-forward"
+      "action": "delete-forward"
     },
     {
       "key": "alt-d",
-      "trigger": "delete-word-forward"
+      "action": "delete-word-forward"
     },
     {
       "key": "ctrl-d",
-      "trigger": "-duplicate-line"
+      "action": "-editor/duplicate-line"
     },
     {
       "key": "ctrl-shift-f",
-      "trigger": "-find-in-path"
+      "action": "-find-in-path"
     },
     {
       "key": "shift-ctrl-s",
-      "trigger": "find-in-path"
+      "action": "find-in-path"
     },
     {
       "key": "alt-f7",
-      "trigger": "-find-usages"
+      "action": "-find-usages"
     },
     {
       "key": "f6",
-      "trigger": "find-usages"
+      "action": "find-usages"
     },
     {
       "key": "ctrl-v",
-      "trigger": "page-down"
+      "action": "page-down"
     },
     {
       "key": "ctrl-v",
-      "trigger": "-paste"
+      "action": "-paste"
     },
     {
       "key": "ctrl-y",
-      "trigger": "paste"
+      "action": "paste"
     },
     {
       "key": "alt-v",
-      "trigger": "page-up"
+      "action": "page-up"
     },
     {
       "key": "ctrl-s",
-      "trigger": "-save-all"
+      "action": "-save-all"
     },
     {
       "key": "ctrl-x ctrl-s",
-      "trigger": "save-all"
+      "action": "save-all"
     },
     {
       "key": "ctrl-x h",
-      "trigger": "select-all"
+      "action": "select-all"
     },
     {
       "key": "shift-ctrl-n",
-      "trigger": "shift-arrow-down"
+      "action": "shift-arrow-down"
     },
     {
       "key": "shift-ctrl-b",
-      "trigger": "shift-arrow-left"
+      "action": "shift-arrow-left"
     },
     {
       "key": "shift-ctrl-f",
-      "trigger": "shift-arrow-right"
+      "action": "shift-arrow-right"
     },
     {
       "key": "shift-ctrl-p",
-      "trigger": "shift-arrow-up"
+      "action": "shift-arrow-up"
     },
     {
       "key": "shift-alt-b",
-      "trigger": "shift-goto-word-left"
+      "action": "editor/move-caret-to-previous-word-with-selection"
     },
     {
       "key": "shift-alt-f",
-      "trigger": "shift-goto-word-right"
+      "action": "editor/move-caret-to-next-word-with-selection"
     },
     {
       "key": "shift-ctrl-a",
-      "trigger": "shift-home"
+      "action": "shift-home"
     },
     {
       "key": "shift-ctrl-v",
-      "trigger": "shift-page-down"
+      "action": "shift-page-down"
     },
     {
       "key": "ctrl-alt-v",
-      "trigger": "shift-page-up"
+      "action": "shift-page-up"
     },
     {
       "key": "alt-b",
-      "trigger": "goto-word-left"
+      "action": "editor/move-caret-to-previous-word"
     },
     {
       "key": "alt-f",
-      "trigger": "goto-word-right"
+      "action": "editor/move-caret-to-next-word"
     },
     {
       "key": "ctrl-k",
-      "trigger": "delete-line"
+      "action": "editor/delete-line"
     },
     {
       "key": "ctrl-k",
-      "trigger": "-git/commit"
+      "action": "-git/commit/jump-to-tool"
     },
     {
       "key": "ctrl-x g",
-      "trigger": "git/commit"
+      "action": "git/commit/jump-to-tool"
     },
     {
       "key": "ctrl-p",
-      "trigger": "-show-parameter-info"
+      "action": "-show-parameter-info"
     },
     {
       "key": "alt-n",
-      "trigger": "new-file"
+      "action": "new-file"
     },
     {
       "key": "ctrl-n",
-      "trigger": "-new-file"
+      "action": "-new-file"
     },
     {
       "key": "ctrl-shift-a",
-      "trigger": "-show-goto-action-panel"
+      "action": "-goto/action"
     },
     {
       "key": "alt-x",
-      "trigger": "show-goto-action-panel"
+      "action": "goto/action"
     },
     {
       "key": "ctrl-x ctrl-right",
-      "trigger": "next-tab"
+      "action": "next-tab"
     },
     {
       "key": "ctrl-x ctrl-left",
-      "trigger": "prev-tab"
+      "action": "prev-tab"
     },
     {
       "key": "ctrl-x ctrl-f",
-      "trigger": "show-goto-file-panel"
+      "action": "goto/file"
     },
     {
       "key": "ctrl-b",
-      "trigger": "-go-to-declaration"
+      "action": "-go-to-declaration"
     },
     {
       "key": "ctrl-w",
-      "trigger": "-expand-selection"
+      "action": "-expand-selection"
     },
     {
       "key": "ctrl-z",
-      "trigger": "-undo"
+      "action": "-undo"
     },
     {
       "key": "ctrl-slash",
-      "trigger": "undo"
+      "action": "undo"
     }
   ]
 }
